@@ -93,6 +93,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8214797188528846306}
+  - component: {fileID: 5359747961833562270}
   m_Layer: 0
   m_Name: PipeT
   m_TagString: Untagged
@@ -119,6 +120,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5359747961833562270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5296783155595728053}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99b919e17a9cd204899fc10c6a11b872, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5840795331463394223
 GameObject:
   m_ObjectHideFlags: 0
